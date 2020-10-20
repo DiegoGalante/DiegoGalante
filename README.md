@@ -29,28 +29,6 @@
 - 🌱 Estudando e aprendendo cada vez mais: **.Net Core, DevOps e C#**.
 - 💖 Interesses: Tecnologia 💻, Jogos 👾 e uma boa conversa 😁.
 
-### Nugets e Projetos
-
-<p align="left">
-  <p>
-    Schedule.io 📅
-  </p>
-  <a href="https://www.nuget.org/packages/Schedule.io/" target="_blank">
-    <img
-      src="Logo/nuget-logo.png"
-      alt="Schedule.io"
-      width="40"
-      height="40"
-    />
-  </a>
-  <div align="justify">
-   <p> Schedule.io é um nuget feito para auxiliar e encurtar o tempo de desenvolvimento de aplicações que possuem qualquer necessidade ligada a uma agenda entregando uma estrutura de fácil uso e moderna a medida que é atualizada. 
-    Atualmente está em sua versão inicial e estamos trabalhando para que ela receba atualizações em breve. </p>
-  <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
-   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/Schedule.io">github.com/typinghard/Schedule.io</a>.</p>
-  </div>
-</p>
-
 ### Linguagens e Ferramentas
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank">
@@ -139,3 +117,25 @@
 ### Encontre-me na internet 🌎:
 
 - 💼 Conectando com pessoas e compartilhando conhecimento profissional no <a href="https://www.linkedin.com/in/diego-galante/">LinkedIn</a>.
+
+### Nugets e Projetos
+
+<p align="left">
+  <p>
+    Schedule.io 📅
+  </p>
+  <a href="https://www.nuget.org/packages/Schedule.io/" target="_blank">
+    <img
+      src="Logo/nuget-logo.png"
+      alt="Schedule.io"
+      width="40"
+      height="40"
+    />
+  </a>
+  <div align="justify">
+   <p> Schedule.io é um nuget feito para auxiliar e encurtar o tempo de desenvolvimento de aplicações que possuem qualquer necessidade ligada a uma agenda entregando uma estrutura de fácil uso e moderna a medida que é atualizada. 
+    Atualmente está em sua versão inicial e estamos trabalhando para que ela receba atualizações em breve. </p>
+  <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
+   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/Schedule.io">github.com/typinghard/Schedule.io</a>.</p>
+  </div>
+</p>
