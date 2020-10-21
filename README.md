@@ -12,7 +12,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=DiegoGalante&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -136,6 +136,6 @@
    <p> Schedule.io é um nuget feito para auxiliar e encurtar o tempo de desenvolvimento de aplicações que possuem qualquer necessidade ligada a uma agenda entregando uma estrutura de fácil uso e moderna a medida que é atualizada. 
     Atualmente está em sua versão inicial e estamos trabalhando para que ela receba atualizações em breve. </p>
   <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
-   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/Schedule.io">github.com/typinghard/Schedule.io</a>.</p>
+   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/Schedule.io">github.com/typinghard/Schedule.io</a></p>
   </div>
 </p>
