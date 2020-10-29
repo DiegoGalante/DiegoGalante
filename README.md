@@ -27,6 +27,7 @@
 
 - 👨‍💻 Desenvolvedor Pleno na <a href="https://www.linkedin.com/company/sizefintech/">**Size**</a>.
 - 🌱 Estudando e aprendendo cada vez mais: **.Net Core, DevOps e C#**.
+- 🚀 Em processo de certificação **C#**.
 - 💖 Interesses: Tecnologia 💻, Jogos 👾 e uma boa conversa 😁.
 
 ### Linguagens e Ferramentas
