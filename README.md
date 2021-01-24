@@ -25,9 +25,8 @@
 
 ## Olá! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 👨‍💻 Desenvolvedor Pleno na <a href="https://www.linkedin.com/company/sizefintech/">**Size**</a>.
+- 👨‍💻Desenvolvedor .Net Core na <a href="https://www.linkedin.com/company/sizefintech/">**Size**</a>.
 - 🌱 Estudando e aprendendo cada vez mais: **.Net Core, DevOps e C#**.
-- 🚀 Em processo de certificação **C#**.
 - 💖 Interesses: Tecnologia 💻, Jogos 👾 e uma boa conversa 😁.
 
 ### Linguagens e Ferramentas
@@ -48,14 +47,6 @@
       height="40"
     />
   </a>
-   <a href="https://discord.com/" target="_blank">
-    <img
-      src="Logo/discord-logo.png"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"
@@ -68,6 +59,14 @@
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
       alt="Github"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software" target="_blank">
+    <img
+      src="Logo/microsoft-teams.png"
+      alt="Microsoft Teams"
       width="40"
       height="40"
     />
