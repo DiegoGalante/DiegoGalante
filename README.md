@@ -1,27 +1,4 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="280" src="assinatura.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="280" src="Gifs/work.gif" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=DiegoGalante&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGalante&layout=compact"
-    />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Olá! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -67,22 +44,14 @@
     <img
       src="Logo/microsoft-teams.png"
       alt="Microsoft Teams"
-      width="40"
-      height="40"
+      width="50"
+      height="45"
     />
   </a>
   <a href="https://dotnet.microsoft.com/download" target="_blank">
     <img
       src="Logo/net_core-logo.png"
       alt=".Net Core"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://slack.com/intl/pt-br/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"
-      alt="Slack"
       width="40"
       height="40"
     />
@@ -118,7 +87,7 @@
 
 - 💼 Conectando com pessoas e compartilhando conhecimento profissional no <a href="https://www.linkedin.com/in/diego-galante/">LinkedIn</a>.
 
-### Nugets e Projetos
+### <h2>Nugets e Projetos</h2>
 
 <p align="left">
   <p>
@@ -138,4 +107,27 @@
   <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
    <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/Schedule.io">github.com/typinghard/Schedule.io</a></p>
   </div>
+  
+  <h2></h2>
+  
+   <p>
+    Azure DevOps Tracker 🌟
+  </p>
+  <a href="https://www.nuget.org/packages/AzureDevOpsTracker/" target="_blank">
+    <img
+      src="Logo/adt_icon.png"
+      alt="Azure Devops Tracker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <div align="justify">
+   <p>  
+     Com o Azure DevOps Tracker é possível obter informações detalhadas sobre o ciclo de vida de cada Workitem abrindo um leque gigantesco de possibilidades para relatórios. 
+   </p>
+     
+  <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
+   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/azure-devops-tracker">github.com/typinghard/azure-devops-tracker</a></p>
+  </div>
+  
 </p>
