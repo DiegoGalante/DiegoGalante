@@ -2,7 +2,7 @@
 
 ## Olá! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 👨‍💻Desenvolvedor .Net na <a href="https://www.linkedin.com/company/sizefintech/">**Size**</a>.
+- 👨‍💻Desenvolvedor .Net na <a href="https://www.linkedin.com/company/zinkglobal/about/">**Zink**</a>.
 - 🌱 Estudando e aprendendo cada vez mais: **.Net, DevOps e C#**.
 - 💖 Interesses: Tecnologia 💻, Jogos 👾 e uma boa conversa 😁.
 
