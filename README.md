@@ -89,6 +89,41 @@
 
 ### <h2>Nugets e Projetos</h2>
 
+<p>
+    Azure DevOps Tracker 🌟
+  </p>
+  <a href="https://www.nuget.org/packages/AzureDevOpsTracker/" target="_blank">
+    <img
+      src="Logo/adt_icon.png"
+      alt="Azure Devops Tracker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br/>
+  <p>
+    <a href="https://www.nuget.org/packages/AzureDevOpsTracker/" target="_blank">
+      <img
+        src="https://img.shields.io/nuget/v/AzureDevOpsTracker"
+        alt="Azure Devops Tracker"
+      />
+    </a>
+    <a href="https://www.nuget.org/packages/AzureDevOpsTracker/" target="_blank">
+      <img
+        src="https://img.shields.io/nuget/dt/AzureDevOpsTracker"
+        alt="Downloads - Azure Devops Tracker"
+      />
+    </a>
+  </p>
+  <div align="justify">
+   <p>  
+     Com o Azure DevOps Tracker é possível obter informações detalhadas sobre o ciclo de vida de cada Workitem abrindo um leque gigantesco de possibilidades para relatórios. 
+   </p>
+     <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
+   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/azure-devops-tracker">github.com/typinghard/azure-devops-tracker</a></p>
+  </div>
+<h2></h2>
+  
 <p align="left">
   <p>
     Schedule.io 📅
@@ -101,33 +136,26 @@
       height="40"
     />
   </a>
+  <br/>
+  <p>
+    <a href="https://www.nuget.org/packages/Schedule.io" target="_blank">
+      <img
+        src="https://img.shields.io/nuget/v/Schedule.io"
+        alt="Shedule.io"
+      />
+    </a>
+    <a href="https://www.nuget.org/packages/Schedule.io" target="_blank">
+      <img
+        src="https://img.shields.io/nuget/dt/Schedule.io""
+        alt="Downloads - Shedule.io"
+      />
+    </a>
+  </p>
   <div align="justify">
    <p> Schedule.io é um nuget feito para auxiliar e encurtar o tempo de desenvolvimento de aplicações que possuem qualquer necessidade ligada a uma agenda entregando uma estrutura de fácil uso e moderna a medida que é atualizada. 
     Atualmente está em sua versão inicial e estamos trabalhando para que ela receba atualizações em breve. </p>
   <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
    <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/Schedule.io">github.com/typinghard/Schedule.io</a></p>
-  </div>
-  
-  <h2></h2>
-  
-   <p>
-    Azure DevOps Tracker 🌟
-  </p>
-  <a href="https://www.nuget.org/packages/AzureDevOpsTracker/" target="_blank">
-    <img
-      src="Logo/adt_icon.png"
-      alt="Azure Devops Tracker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <div align="justify">
-   <p>  
-     Com o Azure DevOps Tracker é possível obter informações detalhadas sobre o ciclo de vida de cada Workitem abrindo um leque gigantesco de possibilidades para relatórios. 
-   </p>
-     
-  <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
-   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/azure-devops-tracker">github.com/typinghard/azure-devops-tracker</a></p>
   </div>
   
 </p>
