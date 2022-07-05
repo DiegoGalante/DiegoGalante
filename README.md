@@ -120,7 +120,14 @@
      Com o Azure DevOps Tracker é possível obter informações detalhadas sobre o ciclo de vida de cada Workitem abrindo um leque gigantesco de possibilidades para relatórios. 
    </p>
      <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
-   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/azure-devops-tracker">github.com/typinghard/azure-devops-tracker</a></p>
+   <p>Para saber mais sobre o projeto: 
+     <a href="https://github.com/typinghard/azure-devops-tracker" target="_blank">
+        <img
+          src="https://img.shields.io/badge/github-Azure%20Devops%20Tracker-blue"
+          alt="Downloads - Azure Devops Tracker"
+        />
+      </a>
+   </p>
   </div>
 <h2></h2>
   
@@ -155,7 +162,13 @@
    <p> Schedule.io é um nuget feito para auxiliar e encurtar o tempo de desenvolvimento de aplicações que possuem qualquer necessidade ligada a uma agenda entregando uma estrutura de fácil uso e moderna a medida que é atualizada. 
     Atualmente está em sua versão inicial e estamos trabalhando para que ela receba atualizações em breve. </p>
   <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
-   <p>Para saber mais sobre o projeto: <a href="https://github.com/typinghard/Schedule.io">github.com/typinghard/Schedule.io</a></p>
+   <p>Para saber mais sobre o projeto: 
+      <a href="https://github.com/typinghard/Schedule.io" target="_blank">
+        <img
+          src="https://img.shields.io/badge/github-Shedule.io-blue"
+          alt="Downloads - Azure Devops Tracker"
+        />
+      </a>
   </div>
   
 </p>
