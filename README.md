@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador iuriCode">
 
-## Olá! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
 - 👨‍💻Desenvolvedor .Net na <a href="https://www.linkedin.com/company/zinkglobal/about/">**Zink**</a>.
 - 🌱 Estudando e aprendendo cada vez mais: **.Net, DevOps e C#**.
