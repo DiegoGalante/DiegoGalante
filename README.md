@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador iuriCode">
 
-## Olá! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
+## Hello! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
-- 👨‍💻Desenvolvedor .Net na <a href="https://www.linkedin.com/company/zinkglobal/about/">**Zink**</a>.
-- 🌱 Estudando e aprendendo cada vez mais: **Inglês, .Net, DevOps e C#**.
-- 💖 Interesses: Tecnologia 💻, Jogos 👾 e uma boa conversa 😁.
+- 👨‍💻 .Net Core back-end engineer <a href="https://www.linkedin.com/company/zinkglobal/about/">**Zink**</a>.
+- 🌱 Studying and learning every more: **English, .Net Core and DevOps**.
+- 💖 Interests: Technology 💻 and a good talk 😁.
 
-### Linguagens e Ferramentas
+### Languages and Tools
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/" target="_blank">
     <img
@@ -83,11 +83,11 @@
 </p>
 
 
-### Encontre-me na internet 🌎:
+### Find-me on the internet 🌎:
 
-- 💼 Conectando com pessoas e compartilhando conhecimento profissional no <a href="https://www.linkedin.com/in/diego-galante/">LinkedIn</a>.
+- 💼 Connecting with people and sharing profissional knowlogy at <a href="https://www.linkedin.com/in/diego-galante/">LinkedIn</a>.
 
-### <h2>Nugets e Projetos</h2>
+### <h2>Nugets e Projects</h2>
 
 <p>
     Azure DevOps Tracker 🌟
@@ -117,10 +117,10 @@
   </p>
   <div align="justify">
    <p>  
-     Com o Azure DevOps Tracker é possível obter informações detalhadas sobre o ciclo de vida de cada Workitem abrindo um leque gigantesco de possibilidades para relatórios. 
+     With Azure DevOps Tracker, it is possible to obtain detailed information about the life cycle of each Workitem, opening a huge range of possibilities for reports.
    </p>
-     <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
-   <p>Para saber mais sobre o projeto: 
+     <p>It was developed in partnership with <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
+   <p>To learn more about the project: 
      <a href="https://github.com/typinghard/azure-devops-tracker" target="_blank">
         <img
           src="https://img.shields.io/badge/github-Azure%20Devops%20Tracker-blue"
@@ -159,10 +159,10 @@
     </a>
   </p>
   <div align="justify">
-   <p> Schedule.io é um nuget feito para auxiliar e encurtar o tempo de desenvolvimento de aplicações que possuem qualquer necessidade ligada a uma agenda entregando uma estrutura de fácil uso e moderna a medida que é atualizada. 
-    Atualmente está em sua versão inicial e estamos trabalhando para que ela receba atualizações em breve. </p>
-  <p>Foi desenvolvido em parceria com <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
-   <p>Para saber mais sobre o projeto: 
+   <p> Schedule.io is a nuget made to help and shorten the development time of applications that have any need linked to a schedule, delivering an easy-to-use and modern structure as it is updated. 
+    It is currently in its initial release and we are working on getting updates soon. </p>
+  <p>It was developed in partnership <a href="https://github.com/ElvisCSouza">Elvis Souza</a>. </p>
+   <p>To learn more about the project: 
       <a href="https://github.com/typinghard/Schedule.io" target="_blank">
         <img
           src="https://img.shields.io/badge/github-Shedule.io-blue"
