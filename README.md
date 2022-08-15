@@ -3,7 +3,7 @@
 ## Olá! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
 - 👨‍💻Desenvolvedor .Net na <a href="https://www.linkedin.com/company/zinkglobal/about/">**Zink**</a>.
-- 🌱 Estudando e aprendendo cada vez mais: **.Net, DevOps e C#**.
+- 🌱 Estudando e aprendendo cada vez mais: **Inglês, .Net, DevOps e C#**.
 - 💖 Interesses: Tecnologia 💻, Jogos 👾 e uma boa conversa 😁.
 
 ### Linguagens e Ferramentas
