@@ -2,7 +2,7 @@
 
 ## Hello! ☺️ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
-- 👨‍💻 .Net Core back-end engineer <a href="https://www.linkedin.com/company/zinkglobal/about/">**Zink**</a>.
+- 👨‍💻 .Net Core back-end engineer <a href="https://www.linkedin.com/company/nexer-group/about/">**Nexer Group**</a>.
 - 🌱 Studying and learning every more: **English, .Net Core and DevOps**.
 - 💖 Interests: Technology 💻 and a good talk 😁.
 
